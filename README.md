@@ -12,7 +12,7 @@ CS undergrad @ Bennett University | Backend + AI/ML | Building **LegalMind** (ag
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -35,8 +35,8 @@ CS undergrad @ Bennett University | Backend + AI/ML | Building **LegalMind** (ag
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnavBhatt30&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBhatt30&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArnavBhatt30&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnavBhatt30&layout=compact&theme=radical)
 
 ## 📫 Connect
 [Portfolio](https://arnav.cloud) • [LinkedIn](https://www.linkedin.com/in/arnav-bhatt-0139b8172/)
