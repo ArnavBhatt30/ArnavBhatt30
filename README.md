@@ -3,7 +3,7 @@
 CS undergrad @ Bennett University | Backend + AI/ML | Building **LegalMind** (agentic RAG)
 
 ## 🚀 Featured Projects
-- **LegalMind** *(in progress)* — Agentic RAG system for legal doc analysis (Gemini 1.5 Flash, Qdrant, FastAPI)
+- **LegalMind** *(in progress)* — Agentic RAG system for legal doc analysis (Gemini 2.5 Flash, Qdrant, FastAPI)
 - **[CardioSense](https://cardiosense.online)** — Random Forest classifier, deployed as REST API
 - **[NimbusDrive](https://nimbusdrive.onrender.com/)** — LLaMA 3.1-powered cloud storage (AWS S3, JWT, SQLite)
 - **[CultivAI 2.0](https://github.com/ArnavBhatt30/CultivAI_frontend)** — 38-class CNN crop disease detection
